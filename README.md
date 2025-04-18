@@ -33,3 +33,7 @@ Link Bot = https://discord.com/oauth2/authorize?client_id=1362340394649522186&pe
 ---
 
 Nyari Player, Pacar, Selingkuhan, Siapapun itu di kota dan kapan pun tanpa harus ke Kota!!!, By: paatih gantenggg :)
+![Screenshot 2025-04-18 182021](https://github.com/user-attachments/assets/be97f308-445a-4889-bcd3-f3e72091e2a0)
+![Screenshot 2025-04-18 180135](https://github.com/user-attachments/assets/c11165cb-76a1-4011-aff4-ab6f636fa3e0)
+![Screenshot 2025-04-18 182227](https://github.com/user-attachments/assets/845e604c-16f2-4862-a803-cca9c3ce7810)
+![Screenshot 2025-04-18 182047](https://github.com/user-attachments/assets/dfe544a1-9059-4d37-9ff2-1765ac806f1a)
