@@ -134,7 +134,6 @@ DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 def fetch_server_data():
     scraper = cloudscraper.create_scraper()
     try:
-        response = scraper.get("https://servers-frontend.fivem.net/api/servers/single/bak4pl")
         if response.status_code == 200:
             return response.json()
         else:
